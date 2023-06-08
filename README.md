@@ -1,1 +1,1 @@
-# 2D_unity_platformer
+We developed a Unity 2D platformer game for our university competition, targeting computer science major students. The project was a collaborative effort by @alexander0077, @KubaBubaB, and myself. Out of over 150 participants, our game achieved the 4th position. We created some of the game's assets ourselves, while others were sourced and collected in the "Sources.txt" file.
